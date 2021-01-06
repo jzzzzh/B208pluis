@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//只能输出n*n维的矩阵相乘
+//只能输出n*n维的矩阵相乘.
 int main(void)
 {
     int n;
